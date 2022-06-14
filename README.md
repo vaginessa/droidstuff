@@ -16,3 +16,4 @@ https://github.com/ManeraKai/simplytranslate_mobile
 
 
 
+.
