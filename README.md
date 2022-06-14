@@ -8,8 +8,4 @@ Lentil Translate - An Android client for the Lingala Translator. Lingva translat
 https://github.com/yaxarat/lingvaandroid
 https://play.google.com/store/apps/details?id=dev.atajan.lingva_android
 
-https://github.com/vaginessa/droidstuff/raw/main/Lentil%20Translate%20v1.2.0.apk
 
-https://github.com/vaginessa/droidstuff/blob/main/Lentil%20Translate%20v1.2.0.apk?raw=true
-
-https://raw.githubusercontent.com/vaginessa/droidstuff/main/Lentil%20Translate%20v1.2.0.apk
